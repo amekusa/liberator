@@ -1,0 +1,20 @@
+{
+    "name": "amekusa/liberator",
+    "description": "Minimalistic starter theme for WordPress",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amekusa",
+            "email": "hello@amekusa.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "amekusa\\liberator\\": "lib"
+        }
+    }
+}
