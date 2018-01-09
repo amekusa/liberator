@@ -1,0 +1,16 @@
+{
+  "name": "liberator",
+  "description": "Minimalistic starter theme for WordPress",
+  "authors": [
+    "amekusa"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "wordpress"
+  ],
+  "homepage": "https://github.com/amekusa/liberator",
+  "private": true,
+  "devDependencies": {
+    "blessing": "^0.9.1"
+  }
+}
